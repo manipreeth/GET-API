@@ -1,0 +1,15 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.display{
+  display: flex;
+  flex-wrap: wrap;
+  margin: 5px;
+}
+
+.individualpost{
+  height: 550px;
+  margin: 15px;
+}
